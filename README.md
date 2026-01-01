@@ -5,10 +5,6 @@ This is my portfolio with the backend system in which, I receive the messages se
 👋 Hello there!  
 Welcome to my **personal portfolio website**, where I showcase my journey as a **Computer Science & Engineering** student, my projects, skills, and achievements 🚀  
 
-🔗 **Live Portfolio:** [suhani-dn12-portfolio.netlify.app](https://suhani-dn12-portfolio.netlify.app/)
-
----
-
 ## 🧠 About Me
 I’m **Suhani Dattatray Narayankar**, a passionate **CSE student** who loves exploring technology, design, and innovation.  
 💡 I enjoy working on creative web projects, AI, and futuristic ideas like **hologram communication**.  
